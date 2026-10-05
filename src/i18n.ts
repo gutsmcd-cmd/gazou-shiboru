@@ -66,7 +66,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Shiboru',
+  appTitle: 'Shrink Image',
   appSubtitle: 'Compress on this device only',
   emptyHint: 'Add photos — compressed only on this device',
   addPhotos: 'Choose photos',
